@@ -1,0 +1,6 @@
+*~
+*.o
+tmp*
+a.out
+src/9cc/9cc
+.bash_history
