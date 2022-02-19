@@ -7,5 +7,6 @@ test: 9cc
 
 clean:
 	rm -f 9cc *.o *~ tmp*
+	rm -f .bash_history
 
 .PHONY: test clean
